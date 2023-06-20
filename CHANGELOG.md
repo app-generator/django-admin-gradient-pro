@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.6] 2023-06-20
+### Changes
+
+- Update Sidebar Links (minor)
+  - Added Dark Mode Link 
+
 ## [1.0.5] 2023-06-20
 ### Changes
 
